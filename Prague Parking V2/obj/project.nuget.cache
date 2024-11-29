@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCeQ1DInB4I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cr7gr\\Desktop\\Prague-Parking\\PragueParking V2\\Prague Parking V2\\Prague Parking V2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cr7gr\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

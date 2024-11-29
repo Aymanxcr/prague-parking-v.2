@@ -1,0 +1,38 @@
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.exe
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.deps.json
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.runtimeconfig.json
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.dll
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.pdb
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\bin\Debug\net8.0\PragueParkingClassLibrarySol.dll
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\bin\Debug\net8.0\PragueParkingClassLibrarySol.pdb
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.csproj.AssemblyReference.cache
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.AssemblyInfoInputs.cache
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.AssemblyInfo.cs
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.csproj.CoreCompileInputs.cache
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague P.86E14C2A.Up2Date
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.dll
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\refint\Prague Parking V2.dll
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.pdb
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.genruntimeconfig.cache
+C:\Users\cr7gr\Desktop\Prague-Parking-V2-master (1)\Prague-Parking-V2-master\Prague Parking V2\obj\Debug\net8.0\ref\Prague Parking V2.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.exe
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.deps.json
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.runtimeconfig.json
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\bin\Debug\net8.0\Prague Parking V2.pdb
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\bin\Debug\net8.0\PragueParkingClassLibrarySol.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\bin\Debug\net8.0\PragueParkingClassLibrarySol.pdb
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.csproj.AssemblyReference.cache
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.AssemblyInfoInputs.cache
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.AssemblyInfo.cs
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.csproj.CoreCompileInputs.cache
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague P.86E14C2A.Up2Date
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\refint\Prague Parking V2.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.pdb
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\Prague Parking V2.genruntimeconfig.cache
+C:\Users\cr7gr\Desktop\Prague-Parking\PragueParking V2\Prague Parking V2\obj\Debug\net8.0\ref\Prague Parking V2.dll
