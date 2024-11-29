@@ -1,0 +1,8 @@
+﻿	#Prague Parking Configuration
+
+McPrize = 10			#Prize per hour for motorcycles
+CarPrize = 20			#Prize per hour for cars
+GarageSize = 101		#Number of parkingspots in the garage
+
+	#Do not change anything in front of the "="
+	#Use whole numbers, integers, only for the values
